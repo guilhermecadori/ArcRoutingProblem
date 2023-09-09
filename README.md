@@ -1,2 +1,2 @@
 # Arc Routing Problem
-Implementation for a single vehicle routing problem on arc - "Chinese Postman Problem". This implementation is specific to this notebook's specific instance. Code needs to be generalized if before being used for a differente instance.
+Implementation of the Matchings algorithm for the single vehicle arc routing problem – aka. "Chinese Postman Problem". This implementation is specific to this notebook's specific instance. Code needs to be generalized on the odd degree nodes portion before being used for different instances.
